@@ -1,0 +1,11 @@
+.currentJobs{
+    background-color: rgb(241, 217, 170);
+}
+.currentJobs__title {
+    text-align: center;
+}
+.currentJobs__job{
+   width: 1000px;
+   height: 500px;
+   padding: 20vh;
+}
