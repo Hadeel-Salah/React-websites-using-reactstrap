@@ -1,0 +1,29 @@
+.firstOne__content h2 {
+  font-weight: 600;
+  line-height: 55px;
+}
+img{
+  border-radius: 50px;
+
+}
+
+.firstOne__content {
+  padding-top: 100px;
+}
+
+.firstOne__search input {
+  border: none;
+  outline: none;
+  padding: 7px 10%;
+}
+
+.firstOne__search {
+  width: 60%;
+  border: 1px solid #f5950644;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 50px;
+  margin-top: 20px;
+  padding-left: 10px;
+}
